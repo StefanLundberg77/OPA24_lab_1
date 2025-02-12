@@ -1,1 +1,1 @@
-# OPA24_lab_1
+Lab 1 for Artificial intelligence 1 - Python
