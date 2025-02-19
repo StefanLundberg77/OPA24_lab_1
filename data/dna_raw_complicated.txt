@@ -6,7 +6,7 @@ agcttagTTTGGatctggccgggg
 gcggatttactcCCCCCAAAAANNaggggagagcccagataaatggagtctgtgcgtccaca
 gaattcgcacca
 AATAAAACCTCACCCAT
-agagcccagaatttactcCCC
+agagcccagaatttaczrtcCCC
 >seq4
 gcggatttactcaggggagagcccagGGataaatggagtctgtgcgtccaca
 gaattcgcacca
